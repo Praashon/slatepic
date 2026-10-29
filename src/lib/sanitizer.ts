@@ -401,4 +401,3 @@ function classifyPngChunk(chunkType: string): MetadataCategory {
       return "xmp";
   }
 }
-

@@ -379,4 +379,3 @@ function getImageDimensions(
     img.src = objectUrl;
   });
 }
-
