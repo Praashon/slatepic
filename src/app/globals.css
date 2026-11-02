@@ -111,4 +111,3 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: color-mix(in srgb, var(--muted-foreground) 52%, transparent);
 }
-
