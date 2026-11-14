@@ -2,7 +2,7 @@ import { Redis } from "@upstash/redis";
 import { connection, NextResponse } from "next/server";
 
 const NO_STORE_HEADERS = {
-  "Cache-Control": "no-store",
+  "Cache-Control": "no-store, no-cache, must-revalidate",
 };
 
 const fallbackStats = {
