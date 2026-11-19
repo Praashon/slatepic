@@ -68,7 +68,7 @@ function getStageDescription(stage: DemoStage): string {
     case "inspecting":
       return "Scanning container bytes locally to expose Software, DigitalSourceType, and C2PA provenance tags.";
     case "controls":
-      return "Highlighting format, quality, and Light Pixel Refresh controls before redrawing clean pixels.";
+      return "Highlighting format, quality, and Pixel Refresh controls before redrawing clean pixels.";
     case "scrubbing":
       return "Redrawing pixels onto an HTML5 Canvas and stripping all ancillary binary chunks...";
     case "verified":
