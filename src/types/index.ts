@@ -107,4 +107,3 @@ export interface ScrubLogEntry {
   tagsNukedCount: number;
   detectedSignatures: string[];
 }
-

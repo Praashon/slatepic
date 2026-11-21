@@ -256,7 +256,7 @@ export function PresetsView() {
 
           <div className="space-y-2">
             <span className="block text-xs font-semibold text-muted-foreground">
-              Pixel Refresh Intensity
+              Pixel Refresh Intensity (SynthID Mitigation)
             </span>
             <div className="grid grid-cols-4 gap-1 rounded-xl border border-border bg-muted/60 p-1">
               {REFRESH_LEVEL_OPTIONS.map((lvl) => {

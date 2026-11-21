@@ -57,7 +57,7 @@ export const DEFAULT_PRESETS: Array<Omit<UserPreset, "id">> = [
     isDefault: false,
   },
   {
-    name: "Deep Pixel Refresh (WebP)",
+    name: "Deep Pixel Scrub (Strong)",
     outputFormat: "image/webp",
     quality: 0.88,
     pixelRefreshLevel: "strong",

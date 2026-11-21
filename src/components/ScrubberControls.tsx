@@ -296,7 +296,7 @@ export function ScrubberControls({
             onClick={() => setStagesOpen((prev) => !prev)}
             className="flex w-full cursor-pointer items-center justify-between px-3 py-2 text-xs font-semibold text-muted-foreground transition-colors hover:text-foreground"
           >
-            <span>Advanced Pixel Refresh Options</span>
+            <span>Customize DSP Stages</span>
             {stagesOpen ? (
               <ChevronUp className="h-3.5 w-3.5" />
             ) : (

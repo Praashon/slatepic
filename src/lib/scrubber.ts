@@ -667,4 +667,3 @@ export async function buildBatchZip(
 
   return zip.generateAsync({ type: "blob" });
 }
-
