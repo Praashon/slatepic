@@ -245,7 +245,7 @@ export function ImageInspector({
               Cleaned
             </Badge>
             <div className="pointer-events-none absolute bottom-3 left-1/2 z-20 -translate-x-1/2 rounded-md border border-border bg-card-solid/90 px-2.5 py-1 text-[11px] font-medium text-muted-foreground shadow-xs backdrop-blur-md">
-              Compare original and cleaned pixels
+              Drag slider to compare pixels ({splitPercent}%)
             </div>
           </div>
         ) : (

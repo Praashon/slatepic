@@ -214,4 +214,3 @@ export function VerificationBadge({
     </div>
   );
 }
-

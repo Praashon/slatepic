@@ -124,7 +124,7 @@ export default function FaqPage() {
               <Layers className="h-4 w-4" />
             </span>
             <h2 className="text-base font-semibold tracking-tight text-foreground">
-              Pixel Watermarks (Degraded Only)
+              Pixel Watermarks (Degraded via Multi-Stage DSP)
             </h2>
           </div>
 
